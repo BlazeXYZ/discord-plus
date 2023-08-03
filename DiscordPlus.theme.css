@@ -36,6 +36,7 @@
   --dplus-background-color-saturation-amount: 168.3;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.65;
+}
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
@@ -62,7 +63,6 @@
   --dplus-font-ui: 'Poppins';
   --dplus-font-body: 'Roboto';
   --dplus-font-header: 'Righteous';
-
 
 /* The Home icon on the top left */
 --dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
