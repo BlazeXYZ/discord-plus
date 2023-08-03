@@ -28,8 +28,8 @@
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 180;
-  --dplus-background-color-saturation-amount: 67.19;
-  --dplus-background-color-lightness-amount: 99.22;
+  --dplus-background-color-saturation-amount: 67.19%;
+  --dplus-background-color-lightness-amount: 99.22%;
   --dplus-background-color-alpha: 0.8;
 }
 
