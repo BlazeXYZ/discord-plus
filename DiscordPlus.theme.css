@@ -6,6 +6,7 @@
  * @description BlazeX2's Discord theme.
  * @invite 4jrKXFfxHm
 */
+@import url(https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css);
 @import "https://monstrousdev.github.io/themes/addons/serverDrawer-oneGrid.css";
 @import "https://monstrousdev.github.io/themes/addons/chatBubbles.css";
 @import "https://monstrousdev.github.io/themes/addons/minimalUserList.css";
