@@ -16,9 +16,9 @@
   --dplus-backdrop: url(https://imgur.com/urOF9Yp.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 292;
-  --dplus-accent-color-saturation: 195;
-  --dplus-accent-color-lightness: 156;
+  --dplus-accent-color-hue: 180;
+  --dplus-accent-color-saturation: 247;
+  --dplus-accent-color-lightness: 253;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
